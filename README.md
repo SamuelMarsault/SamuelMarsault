@@ -1,16 +1,21 @@
-### Hi there 👋
+## Bonjour, je suis Samuel
 
-<!--
-**SamuelMarsault/SamuelMarsault** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis un étudiant en 2ème année d'Informatique ...
 
-Here are some ideas to get you started:
+### Mes projets
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Projet tutoré](https://github.com/SamuelMarsault/Projet_tutore)
+
+Description
+
+---
+
+[Projet Mastermind](https://github.com/SamuelMarsault/Mastermind)
+
+Description
+
+#### Socials
+
+Vous pouvez aussi me retrouver sur mes résaux !
+
+- 🖇️ LinkedIn [a faire](lien)
