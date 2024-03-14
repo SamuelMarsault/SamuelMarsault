@@ -6,13 +6,13 @@ Actuellement etudiant en 2ème année d'Informatique, cela fais depuis 2019 que 
 
 [Projet tutoré](https://github.com/SamuelMarsault/Projet_tutore)
 
-Description
+Durant 4 mois en groupe de 4, nous avons du créer un jeu basé sur la territorialisation.
 
 ---
 
 [Projet Mastermind](https://github.com/SamuelMarsault/Mastermind)
 
-Description
+Durant 1 mois en groupe de 2, nous avons du créer un mastermind avec java et swing.
 
 ---
 
