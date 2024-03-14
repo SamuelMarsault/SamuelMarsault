@@ -1,6 +1,6 @@
 ## Bonjour, je suis Samuel
 
-Je suis un étudiant en 2ème année d'Informatique ...
+Actuellement etudiant en 2ème année d'Informatique, cela fais depuis 2019 que ce domaine me passionne.
 
 ### Mes projets
 
@@ -13,6 +13,8 @@ Description
 [Projet Mastermind](https://github.com/SamuelMarsault/Mastermind)
 
 Description
+
+---
 
 #### Socials
 
