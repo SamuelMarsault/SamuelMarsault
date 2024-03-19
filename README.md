@@ -8,11 +8,11 @@ Actuellement etudiant en 2ème année d'Informatique à l'IUT Robert Schuman à 
 [Projet tutoré](https://github.com/SamuelMarsault/Projet_tutore)
 
 Durant une période de 4 mois, en collaboration avec un groupe de 4 étudiants, nous avons du développer un jeu basé sur la territorialisation pendant notre deuxième année d'étude.
-Mes partenaires:
+Mes partenaires :
 
--[Damien Jung](https://github.com/DamienJUNG/DamienJUNG)
--Robin Miniotti
--Cunin Antoine
+- [Damien Jung](https://github.com/DamienJUNG/DamienJUNG)
+- Robin Miniotti
+- Cunin Antoine
 
 ---
 
