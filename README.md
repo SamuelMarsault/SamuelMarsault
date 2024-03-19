@@ -1,23 +1,30 @@
 ## Bonjour, je suis Samuel
 
-Actuellement etudiant en 2ème année d'Informatique, cela fais depuis 2019 que ce domaine me passionne.
+Actuellement etudiant en 2ème année d'Informatique à l'IUT Robert Schuman à Illkirch-Graffenstaden, je suis passionné par ce domaine depuis 2019.
 
 ### Mes projets
 
+#### Projet tutoré - Jeu de territorialisation
 [Projet tutoré](https://github.com/SamuelMarsault/Projet_tutore)
 
-Durant 4 mois en groupe de 4, nous avons du créer un jeu basé sur la territorialisation.
+Durant une période de 4 mois, en collaboration avec un groupe de 4 étudiants, nous avons du développer un jeu basé sur la territorialisation pendant notre deuxième année d'étude.
+Mes partenaires:
+
+-[Damien Jung](https://github.com/DamienJUNG/DamienJUNG)
+-Robin Miniotti
+-Cunin Antoine
 
 ---
 
+#### Projet Mastermind en Java
 [Projet Mastermind](https://github.com/SamuelMarsault/Mastermind)
 
-Durant 1 mois en groupe de 2, nous avons du créer un mastermind avec java et swing.
+En partenariat avec [Damien Jung](https://github.com/DamienJUNG/DamienJUNG), ce projet a été conçu sur une période d'un mois au cours de notre deuxième année d'études en informatique. Nous avons du développer un mastermind en utilisant Java avec l'interface graphique Swing.
 
 ---
 
-#### Socials
+#### Réseaux Sociaux
 
-Vous pouvez aussi me retrouver sur mes résaux !
+Vous pouvez également me retrouver sur mes réseaux :
 
-- 🖇️ LinkedIn [a faire](lien)
+- 🖇️ LinkedIn : [Samuel Marsault](https://www.linkedin.com/in/samuel-marsault/)
