@@ -2,6 +2,8 @@
 
 Actuellement etudiant en 2ème année d'Informatique à l'IUT Robert Schuman à Illkirch-Graffenstaden, je suis passionné par ce domaine depuis 2019.
 
+//Ajouter petit texte centre intéret
+
 ### Mes projets
 
 #### Projet tutoré - Jeu de territorialisation
