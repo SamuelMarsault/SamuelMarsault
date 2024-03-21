@@ -13,7 +13,7 @@ Durant une période de 4 mois, en collaboration avec un groupe de 4 étudiants, 
 Mes partenaires :
 
 - [Damien Jung](https://github.com/DamienJUNG/DamienJUNG)
-- [Robin Miniotti]("https://github.com/Robin3711")
+- [Robin Miniotti]("https://github.com/Robin3711/Robin3711")
 - Cunin Antoine
 
 ---
