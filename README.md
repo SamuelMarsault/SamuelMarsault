@@ -2,8 +2,6 @@
 
 Actuellement etudiant en 2ème année d'Informatique à l'IUT Robert Schuman à Illkirch-Graffenstaden, je suis passionné par ce domaine depuis 2019.
 
-//Ajouter petit texte centre intéret
-
 ### Mes projets
 
 #### Projet tutoré - Jeu de territorialisation
@@ -24,6 +22,11 @@ Mes partenaires :
 En partenariat avec [Damien Jung](https://github.com/DamienJUNG/DamienJUNG), ce projet a été conçu sur une période d'un mois au cours de notre deuxième année d'études en informatique. Nous avons du développer un mastermind en utilisant Java avec l'interface graphique Swing.
 
 ---
+
+#### Développement d'un module de fourniture Géographique
+[GeoClimate-Tool](https://github.com/SamuelMarsault/noiseModelling_OSM_Tool)
+
+Pendant mon stage de 2ème année au sein de l'UMRAE du Cerema, j'ai dû créer un module en utilisant des outils disponibles en open-source, notamment [GeoClimate](https://github.com/orbisgis/geoclimate), afin de faciliter la génération de cartes de bruit pour l'outil [NoiseModelling](https://github.com/Universite-Gustave-Eiffel/NoiseModelling).
 
 #### Réseaux Sociaux
 
